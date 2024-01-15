@@ -12,7 +12,7 @@ Meanwhile the locale is runnin (npm run dev)
 In another terminal run npx cypress open and select e2e or component test
 no order to switch between component and e2e it require to stop cypress and run again: npx cypress open
 
-## Thank you so much for the opportunity: 
+## Thank you so much for the opportunity!
 
 # React + TypeScript + Vite
 
