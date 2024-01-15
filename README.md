@@ -9,9 +9,9 @@ In order to run the application you have to
 in the console you can run the function "addCampaigns" To add more data it wll accept an Array of objects as requested
 
 I have also added Cypress componet test and e2e test 
-Meanwhile the locale is runnin (npm run dev)
-In another terminal run npx cypress open and select e2e or component test
-no order to switch between component and e2e it require to stop cypress and run again: npx cypress open
+- Meanwhile the locale is runnin (npm run dev)
+- In another terminal run "npx cypress open" and select e2e or component test
+- In order to switch between component and e2e it require to stop cypress and run again: npx cypress open
 
 ## Thank you so much for the opportunity!
 
