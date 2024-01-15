@@ -1,0 +1,14 @@
+.main-app {
+  display: flex;
+  width: 100%;
+
+  #main-section {
+    flex-grow: 1;
+    height: 100vh;
+    background-color: #fafafa;
+  }
+}
+
+@import '../components/Header/styles.scss';
+@import "../components/Table/style.scss";
+@import "../components/Sidebar/styles.scss";

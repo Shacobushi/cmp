@@ -1,0 +1,26 @@
+.table-actions {
+  padding: 10px 8px 10px 16px;
+  border-bottom: 1px solid rgba(224, 224, 224, 1);
+  min-height: 40px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.status-container {
+  display: flex;
+
+  .status-icon {
+    margin-right: 5px;
+    display: flex;
+    align-self: center;
+  }
+
+  .inactive {
+    color: #ff0000;
+  }
+
+  .active {
+    color: #008000;
+  }
+}
