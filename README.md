@@ -4,6 +4,7 @@ In order to run the application you have to
 cd .\cmp\
 npm install
 npm run dev
+Visit: http://localhost:5173/
 
 in the console you can run the function "addCampaigns" To add more data it wll accept an Array of objects as requested
 
